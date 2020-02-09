@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.a278cd3ddb62bfe3a16b2d248b70138b.js"
+  "/precache-manifest.981f2b6cb0c80ca5ed90f1c2b783ed2c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "way-to-maldives-dev"});
