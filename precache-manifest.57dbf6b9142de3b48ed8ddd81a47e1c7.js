@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a429fc2bfd7ae2e0218a6bbeca0e1d19",
+    "revision": "ce1c9c41950d3d1d91c1686d66bcf6a4",
     "url": "/index.html"
   },
   {
@@ -12,28 +12,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/robots.txt"
   },
   {
-    "revision": "773a2ea8a5b06050997c",
-    "url": "/static/css/about.15f694c9.css"
+    "revision": "b694661164b5dcbfdd11",
+    "url": "/static/css/about.22508d18.css"
   },
   {
-    "revision": "445cc7463beb4362ca09",
-    "url": "/static/css/app.045405f0.css"
+    "revision": "cf26870e09d89e03c3a3",
+    "url": "/static/css/app.0f9b82d8.css"
   },
   {
     "revision": "103fca76e7e51d2a83a3",
     "url": "/static/css/contact.e2d03eee.css"
   },
   {
-    "revision": "8347340351e39e908f48bf946bc64eee",
-    "url": "/static/img/boat.83473403.webp"
+    "revision": "ed590c8fd4d7fb752f622ed240365acd",
+    "url": "/static/img/boat.ed590c8f.jpg"
   },
   {
-    "revision": "773a2ea8a5b06050997c",
-    "url": "/static/js/about.72a300b1.js"
+    "revision": "b694661164b5dcbfdd11",
+    "url": "/static/js/about.67fa2b56.js"
   },
   {
-    "revision": "445cc7463beb4362ca09",
-    "url": "/static/js/app.3f68217f.js"
+    "revision": "cf26870e09d89e03c3a3",
+    "url": "/static/js/app.db8a6af8.js"
   },
   {
     "revision": "73cbdaf6158de1a244a4",
@@ -48,7 +48,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/contact.88285efb.js"
   },
   {
-    "revision": "7b58bbfe984a1f672ed2",
-    "url": "/static/js/runtime.d85ac0a4.js"
+    "revision": "d273fdb2e9d7c2b86fea",
+    "url": "/static/js/runtime.95469e1e.js"
   }
 ]);
